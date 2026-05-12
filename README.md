@@ -35,9 +35,17 @@ backend/
 │── requirements.txt
 
 frontend/
+│── appjs
+│── index.html
+│── style.css
 
 screenshots/
 ```
+![Dashboard](screenshots/Dashboard.png)
+![graph_comparison](screenshots/graph_comparison.png)
+![KNN](screenshots/knn_recommendation.png)
+![Random Forest](screenshots/randomforest_recommendation.png)
+![SVM](screenshots/svm_recommendation.png)
 
 ---
 
